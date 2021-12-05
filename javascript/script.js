@@ -1,1 +1,3 @@
-var ema=0
+function esmikel(){
+         console.log("hello")
+}
